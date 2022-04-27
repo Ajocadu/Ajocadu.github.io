@@ -10,7 +10,7 @@ html{
 }
 
 section{
-	width: 100%;
+	width: auto;
 	height: 800vh;
 	color: #fff;
 	background: linear-gradient(-45deg, aqua, cyan, blueviolet, limegreen);
@@ -114,9 +114,4 @@ h4{
 	100%{
 		background-position: 0 50%;
 	}
-}
-
-.responsive {
-  width: 100%;
-  height: auto;
 }
