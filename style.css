@@ -85,7 +85,7 @@ a{
 	letter-spacing: 2PX;
 	border: 3px solid #fff;
 	position: absolute;
-	top: 31%;
+	top: 100%;
 	left: 50%;
 	transform: translate(-50%, -50%);
 	padding: 5rem 8rem;
