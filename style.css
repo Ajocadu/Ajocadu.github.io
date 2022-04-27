@@ -66,18 +66,30 @@ p{
 	transform: translate(-50%, -50%);
 	padding: 5rem 5rem;
 }
+
 h3{
 	font-size: 2rem;
 	text-transform: uppercase;
 	letter-spacing: 2PX;
 	border: 3px solid #fff;
 	position: absolute;
-	top: 33%;
+	top: 35%;
 	left: 50%;
 	transform: translate(-50%, -50%);
 	padding: 5rem 6rem;
 }
 
+a{
+	font-size: 3 rem;
+	text-transform: uppercase;
+	letter-spacing: 2PX;
+	border: 3px solid #fff;
+	position: absolute;
+	top: 31%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	padding: 5rem 8rem;
+}
 @keyframes change {
 	0%{
 		background-position: 0 50%;
