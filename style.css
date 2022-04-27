@@ -67,6 +67,18 @@ p{
 	padding: 5rem 5rem;
 }
 
+p1{
+	font-size: 1.5rem;
+	text-transform: uppercase;
+	letter-spacing: 2PX;
+	border: 3px solid #fff;
+	position: absolute;
+	top: 40%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	padding: 5rem 5rem;
+}
+
 h3{
 	font-size: 2rem;
 	text-transform: uppercase;
