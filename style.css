@@ -44,7 +44,7 @@ img{
 }
 
 h2{
-	font-size: 3.5rem;
+	font-size: 3 rem;
 	text-transform: uppercase;
 	letter-spacing: 2PX;
 	border: 3px solid #fff;
@@ -52,7 +52,7 @@ h2{
 	top: 15%;
 	left: 50%;
 	transform: translate(-50%, -50%);
-	padding: 5rem 10rem;
+	padding: 5rem 8rem;
 }
 
 p{
@@ -75,7 +75,7 @@ h3{
 	top: 33%;
 	left: 50%;
 	transform: translate(-50%, -50%);
-	padding: 5rem 10rem;
+	padding: 5rem 6rem;
 }
 
 @keyframes change {
