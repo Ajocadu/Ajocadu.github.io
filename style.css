@@ -84,6 +84,7 @@ h4{
 	text-transform: uppercase;
 	letter-spacing: 2PX;
 	border: 3px solid #fff;
+	background-color: aqua;
 	position: absolute;
 	top: 27%;
 	left: 50%;
