@@ -61,7 +61,7 @@ p{
 	letter-spacing: 2PX;
 	border: 3px solid #fff;
 	position: absolute;
-	top: 7%;
+	top: 8%;
 	left: 50%;
 	transform: translate(-50%, -50%);
 	padding: 5rem 5rem;
@@ -73,7 +73,7 @@ h5{
 	letter-spacing: 2PX;
 	border: 3px solid #fff;
 	position: absolute;
-	top: 30%;
+	top: 31%;
 	left: 50%;
 	transform: translate(-50%, -50%);
 	padding: 5rem 5rem;
@@ -85,7 +85,7 @@ h3{
 	letter-spacing: 2PX;
 	border: 3px solid #fff;
 	position: absolute;
-	top: 27%;
+	top: 28%;
 	left: 50%;
 	transform: translate(-50%, -50%);
 	padding: 5rem 6rem;
@@ -98,7 +98,7 @@ h4{
 	border: 3px solid #fff;
 	position: absolute;
 	width: 500px;
-	top: 18.8%;
+	top: 18%;
 	left: 50%;
 	transform: translate(-50%, -50%);
 	padding: 5rem 6rem;
@@ -110,23 +110,12 @@ h6{
 	letter-spacing: 2PX;
 	border: 3px solid #fff;
 	position: absolute;
-	top: 39.3%;
+	top: 42.5%;
 	left: 50%;
 	transform: translate(-50%, -50%);
 	padding: 5rem 6rem;
 }
 
-h7{
-	font-size: 1.3rem;
-	text-transform: uppercase;
-	letter-spacing: 2PX;
-	border: 3px solid #fff;
-	position: absolute;
-	top: 50%;
-	left: 50%;
-	transform: translate(-50%, -50%);
-	padding: 5rem 6rem;
-}
 
 h8{
 	font-size: 1.3rem;
@@ -134,7 +123,7 @@ h8{
 	letter-spacing: 2PX;
 	border: 3px solid #fff;
 	position: absolute;
-	top: 54%;
+	top: 60%;
 	left: 50%;
 	transform: translate(-50%, -50%);
 	padding: 5rem 6rem;
@@ -147,7 +136,7 @@ h9{
 	letter-spacing: 2PX;
 	border: 3px solid #fff;
 	position: absolute;
-	top: 57%;
+	top: 62.25%;
 	left: 50%;
 	transform: translate(-50%, -50%);
 	padding: 5rem 6rem;
@@ -160,7 +149,7 @@ h10{
 	letter-spacing: 2PX;
 	border: 3px solid #fff;
 	position: absolute;
-	top: 62.25%;
+	top: 71.5%;
 	left: 50%;
 	transform: translate(-50%, -50%);
 	padding: 5rem 6rem;
@@ -172,12 +161,36 @@ h11{
 	letter-spacing: 2PX;
 	border: 3px solid #fff;
 	position: absolute;
-	top: 69%;
+	top: 82.3%;
 	left: 50%;
 	transform: translate(-50%, -50%);
 	padding: 5rem 6rem;
 }
 
+p3{
+
+	font-size: 1.5rem;
+	text-transform: uppercase;
+	letter-spacing: 2PX;
+	position: absolute;
+	top: 86.1%;
+	left: 43%;
+	transform: translate(-50%, -50%);
+	padding: 5rem 5rem;
+}
+
+p2{
+
+	font-size: 1.5rem;
+	text-transform: uppercase;
+	letter-spacing: 2PX;
+	border: 3px solid #fff;
+	position: absolute;
+	top: 55.2%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	padding: 5rem 5rem;
+}
 
 @keyframes change {
 	0%{
